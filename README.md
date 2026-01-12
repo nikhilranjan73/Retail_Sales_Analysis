@@ -1,4 +1,4 @@
-# Retail_Sales_Analysis
+# Retail_Store_Sales_Analysis
 
 
 ## STORE BACKGROUND
