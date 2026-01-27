@@ -1,6 +1,6 @@
 📊 Retail Sales Performance & Profitability Analysis
 
-(SQL | Excel | Business Analysis)
+(SQL | Excel |Power BI| Business Analysis)
 
 📌 Project Overview
 
